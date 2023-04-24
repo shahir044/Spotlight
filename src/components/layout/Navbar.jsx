@@ -19,9 +19,6 @@ function Navbar({title}) {
                         <Link to='/about' className='btn btn-ghost btn-sm rounded-btn'>
                             <FaQuestion className='mr-1'/> About
                         </Link>
-                        <Link to='/login' className='btn btn-ghost btn-sm rounded-btn'>
-                            <FaSignInAlt className='mr-1'/> Login
-                        </Link>
                     </div>
                 </div>
             </div>
